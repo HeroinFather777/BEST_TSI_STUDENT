@@ -1,3 +1,5 @@
 #For eduction pruposees
 
-# I am my mothers best creation
+# ST:78701
+# NAME: MASKSIMILIANS
+# SURNAME: GALANOVS
